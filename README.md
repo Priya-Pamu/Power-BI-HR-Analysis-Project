@@ -1,6 +1,6 @@
 #**HR Analysis Report/Dashboard using Power BI**
 
-This HR Analytics Dashboard sounds like a game-changer for organizational strategy! The inclusion of trendlines and target lines provides a clear way to measure progress,
+This HR Analytics Report sounds like a game-changer for organizational strategy! The inclusion of trendlines and target lines provides a clear way to measure progress,
 which is essential for setting benchmarks and driving improvements over time. The detailed categorization of employee distribution and attrition rates makes it easy to 
 pinpoint specific factors—like age, gender, satisfaction levels, or education—that influence workforce dynamics.
 
@@ -11,9 +11,7 @@ Is there a specific challenge or feature you're most excited to explore further 
 enhancing employee engagement strategies based on the insights gained?
 
 #**Technogies:-**
-1.Microsoft Excel
-2.Power BI Desktop
-3.POwer BI Service
+MIcrosoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX Language Data Modeling.
 
 #**Dashboard Details:-**
  #**Key Performance Indicators (KPIs):**
