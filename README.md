@@ -1,4 +1,4 @@
-**HR Analysis Report/Dashboard using Power BI**
+#**HR Analysis Report/Dashboard using Power BI**
 
 This HR Analytics Dashboard sounds like a game-changer for organizational strategy! The inclusion of trendlines and target lines provides a clear way to measure progress,
 which is essential for setting benchmarks and driving improvements over time. The detailed categorization of employee distribution and attrition rates makes it easy to 
@@ -10,20 +10,20 @@ is not just about numbers; it directly supports creating a thriving, diverse, an
 Is there a specific challenge or feature you're most excited to explore further in the dashboard? Perhaps forecasting future trends or 
 enhancing employee engagement strategies based on the insights gained?
 
-**Technogies:-**
+#**Technogies:-**
 1.Microsoft Excel
 2.Power BI Desktop
 3.POwer BI Service
 
-**Dashboard Details:-**
- **Key Performance Indicators (KPIs):**
+#**Dashboard Details:-**
+ #**Key Performance Indicators (KPIs):**
    Employee Count: The total number of employees in the organization.
    Attrition Count: The number of employees who have left the organization.
    Attrition Rate: The percentage of employees who have left, indicating the attrition rate.
    Active Employees: The count of currently employed staff members.
    Average Age: The average age of employees in the organization.
    
- ** Visualizations:**
+ # Visualizations:**
    1. Attrition by Gender (Lollipop Chart): A lollipop chart visually represents attrition rates based on gender.
       It provides a clear comparison between male and female employee turnover, aiding in gender-specific attrition analysis.
 
@@ -42,13 +42,7 @@ enhancing employee engagement strategies based on the insights gained?
    6.Education Field-wise Attrition (Donut Plot): A donut plot offers an alternative representation of attrition rates based on education fields. 
    It provides a more detailed view by displaying both the overall attrition rate and the individual contribution of each education field to the attrition count.
 
-   **Overview:-**
-
-    ## Dashboard 
- 
-    ![Untitled design (1)](https://app.powerbi.com/links/NC--6UlEVx?ctid=708346d2-88b0-4184-b9e9-9a149c645c44&pbi_source=linkShare)
- 
- # Contributing
+# Contributing:
  Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
    
    # Links :-
