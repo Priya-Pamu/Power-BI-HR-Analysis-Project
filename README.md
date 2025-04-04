@@ -10,8 +10,23 @@ is not just about numbers; it directly supports creating a thriving, diverse, an
 Is there a specific challenge or feature you're most excited to explore further in the dashboard? Perhaps forecasting future trends or 
 enhancing employee engagement strategies based on the insights gained?
 
-#**Technogies:-**
-MIcrosoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX Language Data Modeling.
+# Technogies:
+Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX Language Data Modeling.
+
+## Steps covered:
+ > 🌐Imported data from MS Excel to Power BI
+ 
+ > 🪄Data transformation in Power Query editor
+ 
+ > ⚒️Made measures important for Dashboarding
+ 
+ > 📊Setup Dashboard background
+ 
+ > Set-up Dashboard Theme >Format Visuals
+ 
+ > Overall rating visualization
+ 
+ > Dashboard formatting
 
 #**Dashboard Details:-**
  #**Key Performance Indicators (KPIs):**
