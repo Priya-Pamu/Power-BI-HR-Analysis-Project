@@ -1,4 +1,4 @@
-#**HR Analysis Report/Dashboard using Power BI**
+# HR Analysis Report/Dashboard using Power BI
 
 This HR Analytics Report sounds like a game-changer for organizational strategy! The inclusion of trendlines and target lines provides a clear way to measure progress,
 which is essential for setting benchmarks and driving improvements over time. The detailed categorization of employee distribution and attrition rates makes it easy to 
@@ -28,7 +28,7 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
  
  > Dashboard formatting
 
-# Dashboard Details:-
+# Dashboard Details:
  #**Key Performance Indicators (KPIs):**
    Employee Count: The total number of employees in the organization.
    Attrition Count: The number of employees who have left the organization.
