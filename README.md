@@ -55,7 +55,7 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
    6.Job Satisfaction Rating (Matrix Chart): A Matrix chart displays job satisfaction ratings of employees. Count represents an employee's satisfaction level, 
      providing an overview of job satisfaction across the organization.
 
-   7.Salary wise Attrition(Waterfall Chart):A waterfall chart represents attrition rate based on the Salary Slab.
+   7.Salary wise Attrition(Bar Graph):A Bar Graph represents attrition rate based on the Salary Slab.
 
    8.Years at Company(Area Chart):Area Chart compares the attrition count based on the years at company.
 
