@@ -28,7 +28,7 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
  
  > Dashboard formatting
 
-#**Dashboard Details:-**
+# Dashboard Details:-
  #**Key Performance Indicators (KPIs):**
    Employee Count: The total number of employees in the organization.
    Attrition Count: The number of employees who have left the organization.
@@ -36,24 +36,29 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
    Active Employees: The count of currently employed staff members.
    Average Age: The average age of employees in the organization.
    
- # Visualizations:**
-   1. Attrition by Gender (Lollipop Chart): A lollipop chart visually represents attrition rates based on gender.
+ # Visualizations:
+   1. Attrition by Gender (TreeMap Chart): A TreeMap chart visually represents attrition rates against job role based on gender.
       It provides a clear comparison between male and female employee turnover, aiding in gender-specific attrition analysis.
 
-   2.Department-wise Attrition (Pie Chart): A pie chart illustrates attrition distribution across different departments. 
+   2.Department-wise Attrition (Slicer): Using Slicer, illustrates attrition distribution across different departments. 
      Each slice represents a department's proportion in the total attrition count, enabling HR managers to identify departments with higher turnover rates.
 
-   3.Number of Employees by Age Group (Bar Graph): A bar graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. 
+   3.Number of Employees by Age Group (Column Graph): A Column graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. 
      This visualization helps in understanding the age diversity within the organization.
 
-   4.Job Satisfaction Rating (Square Chart): A square chart displays job satisfaction ratings of employees. Each square represents an employee's satisfaction level, 
-     providing a visual overview of job satisfaction across the organization.
-
-   5.Education Field-wise Attrition (Vertical Bar Graph): A vertical bar graph compares attrition rates across various education fields. 
+   4.Education Field-wise Attrition (Donut Plot): A Donut Plot compares attrition rates across various education fields. 
      This visualization helps in identifying patterns related to specific educational backgrounds, aiding in targeted retention strategies.
 
-   6.Education Field-wise Attrition (Donut Plot): A donut plot offers an alternative representation of attrition rates based on education fields. 
-   It provides a more detailed view by displaying both the overall attrition rate and the individual contribution of each education field to the attrition count.
+   5.Job Role wise Attrition (Bar Chart): A Bar Chart offers an alternative representation of attrition rates based on Job roles. 
+   It provides a more detailed view by displaying both the overall attrition rate and the individual contribution based on the role of job to the attrition count.
+
+   6.Job Satisfaction Rating (Matrix Chart): A Matrix chart displays job satisfaction ratings of employees. Count represents an employee's satisfaction level, 
+     providing an overview of job satisfaction across the organization.
+
+   7.Salary wise Attrition(Waterfall Chart):A waterfall chart represents attrition rate based on the Salary Slab.
+
+   8.Years at Company(Area Chart):Area Chart compares the attrition count based on the years at company.
+
 
 # Contributing:
  Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
