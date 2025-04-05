@@ -37,13 +37,14 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
    Average Age: The average age of employees in the organization.
    
  # Visualizations:
-   1. Attrition by Gender (TreeMap Chart): A TreeMap chart visually represents attrition rates against job role based on gender.
+   1.Attrition by Gender (TreeMap Chart): A TreeMap chart visually represents attrition rates against job role based on gender.
       It provides a clear comparison between male and female employee turnover, aiding in gender-specific attrition analysis.
 
    2.Department-wise Attrition (Slicer): Using Slicer, illustrates attrition distribution across different departments. 
      Each slice represents a department's proportion in the total attrition count, enabling HR managers to identify departments with higher turnover rates.
 
-   3.Number of Employees by Age Group (Column Graph): A Column graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. 
+   3.Number of Employees by Age Group (Column Graph): A Column graph categorizes employees into different age groups, offering insights into the age demographics 
+     of the workforce. 
      This visualization helps in understanding the age diversity within the organization.
 
    4.Education Field-wise Attrition (Donut Plot): A Donut Plot compares attrition rates across various education fields. 
@@ -60,8 +61,8 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
    8.Years at Company(Area Chart):Area Chart compares the attrition count based on the years at company.
 
 # Overview:
-  ![image]https://github.com/Priya-Pamu/Power-BI-HR-Analysis-Project/commit/01e0a00810cb1e980e09dcebccbac568febc31ce#r154892781
-
+ https://github.com/Priya-Pamu/Power-BI-HR-Analysis-Project/commit/01e0a00810cb1e980e09dcebccbac568febc31ce#r154892781
+ ![forest](images/HR Analysis Report.jpg)
 
 # Contributing:
  Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
