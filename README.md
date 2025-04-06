@@ -61,8 +61,8 @@ Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX 
    8.Years at Company(Area Chart):Area Chart compares the attrition count based on the years at company.
 
 # Overview:
- https://github.com/Priya-Pamu/Power-BI-HR-Analysis-Project/commit/01e0a00810cb1e980e09dcebccbac568febc31ce#r154892781
- ![forest](images/HR Analysis Report.jpg)
+  ![HR Analysis Report](https://github.com/user-attachments/assets/5c285a86-6f4f-4ba0-99e6-baf6e2d5f88c)
+
 
 # Contributing:
  Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
